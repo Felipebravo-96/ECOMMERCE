@@ -63,7 +63,7 @@ https://ecommerce-lac-nu.vercel.app/
 ---
 ## Contribuidores 🧩
 
-* [Felipe Bravo](https://github.com/Felipebravo-96)
+* [Leandro Buitrago](https://github.com/LEOBC04)
 * [Daniela Camargo](https://github.com/Danicp19)
 * [Danny Hermoso](https://github.com/dannyhermoso)
 * [Diego Carcausto](https://github.com/krqui)
